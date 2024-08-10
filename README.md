@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Caio Varela and I'm a Full Stack Developer, from Fortaleza</h2>
+<h2 align="center">Hi 👋! My name is Caio Varela I'm (almost) a Computer Engineer and (Almost) Full Stack Developer, from Fortaleza-CE!</h2>
 
 ###
 
